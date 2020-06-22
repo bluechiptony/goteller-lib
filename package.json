@@ -1,5 +1,5 @@
 {
-  "name": "$1",
+  "name": "goteller-lib",
   "version": "1.0.0",
   "description": "Application library",
   "main": "./lib/index.js",
